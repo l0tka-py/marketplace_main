@@ -1,0 +1,9 @@
+[submodule "back"]
+	path = back
+	url = git@github.com:l0tka-py/marketplace_backend.git
+[submodule "bot"]
+	path = bot
+	url = git@github.com:l0tka-py/marketplace_bot.git
+[submodule "front"]
+	path = front
+	url = git@github.com:l0tka-py/marketplace_frontend.git
